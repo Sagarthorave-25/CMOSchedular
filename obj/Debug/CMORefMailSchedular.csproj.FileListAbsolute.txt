@@ -1,0 +1,19 @@
+D:\Person Doc\Royson\CMORefMailSchedular\bin\Debug\CMORefMailSchedular.exe.config
+D:\Person Doc\Royson\CMORefMailSchedular\bin\Debug\CMORefMailSchedular.exe
+D:\Person Doc\Royson\CMORefMailSchedular\bin\Debug\CMORefMailSchedular.pdb
+D:\Person Doc\Royson\CMORefMailSchedular\obj\Debug\CMORefMailSchedular.csproj.CoreCompileInputs.cache
+D:\Person Doc\Royson\CMORefMailSchedular\obj\Debug\CMORefMailSchedular.exe
+D:\Person Doc\Royson\CMORefMailSchedular\obj\Debug\CMORefMailSchedular.pdb
+D:\Person Doc\Royson\CMORefMailSchedular\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\Person Doc\Royson\CMORefMailSchedular\obj\Debug\CMORefMailSchedular.csproj.CopyComplete
+D:\Person Doc\Royson\CMORefMailSchedular\obj\Debug\CMORefMailSchedular.csproj.AssemblyReference.cache
+D:\Person Doc\Royson\UAT-PROJECTS\Changes By Sagar Thorave\CMORefMailSchedular\bin\Debug\CMORefMailSchedular.exe.config
+D:\Person Doc\Royson\UAT-PROJECTS\Changes By Sagar Thorave\CMORefMailSchedular\bin\Debug\CMORefMailSchedular.exe
+D:\Person Doc\Royson\UAT-PROJECTS\Changes By Sagar Thorave\CMORefMailSchedular\bin\Debug\CMORefMailSchedular.pdb
+D:\Person Doc\Royson\UAT-PROJECTS\Changes By Sagar Thorave\CMORefMailSchedular\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\Person Doc\Royson\UAT-PROJECTS\Changes By Sagar Thorave\CMORefMailSchedular\obj\Debug\CMORefMailSchedular.csproj.AssemblyReference.cache
+D:\Person Doc\Royson\UAT-PROJECTS\Changes By Sagar Thorave\CMORefMailSchedular\obj\Debug\CMORefMailSchedular.csproj.SuggestedBindingRedirects.cache
+D:\Person Doc\Royson\UAT-PROJECTS\Changes By Sagar Thorave\CMORefMailSchedular\obj\Debug\CMORefMailSchedular.csproj.CoreCompileInputs.cache
+D:\Person Doc\Royson\UAT-PROJECTS\Changes By Sagar Thorave\CMORefMailSchedular\obj\Debug\CMORefMailSchedular.csproj.CopyComplete
+D:\Person Doc\Royson\UAT-PROJECTS\Changes By Sagar Thorave\CMORefMailSchedular\obj\Debug\CMORefMailSchedular.exe
+D:\Person Doc\Royson\UAT-PROJECTS\Changes By Sagar Thorave\CMORefMailSchedular\obj\Debug\CMORefMailSchedular.pdb
